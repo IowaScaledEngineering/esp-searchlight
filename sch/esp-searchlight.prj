@@ -1,0 +1,6 @@
+schematics esp-searchlight.sch
+output-name ../pcb/esp-searchlight
+skip-m4
+elements-dir ../../ise-footprints
+
+
