@@ -1,0 +1,4 @@
+potrace -o searchlight.eps searchlight.bmp -W .5 -H 1.5
+pstoedit -f pcbfill searchlight.eps searchlight.pcb -ssp
+
+Go edit resulting pcb file to put the element on the right layer
