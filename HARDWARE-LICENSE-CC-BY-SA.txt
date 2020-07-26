@@ -1,5 +1,5 @@
-The hardware design files for the Iowa Scaled Engineering MRB-FCS and
-MRBW-FCS areopen hardware, and licensed under the Creative Commons Attribution-Share
+The hardware design files for the Iowa Scaled Engineering ESP-SEARCHLIGHT
+are provided as open hardware, and licensed under the Creative Commons Attribution-Share
 Alike license.
 
 A copy can be found below, or from 

@@ -1,4 +1,4 @@
-All software in the Iowa Scaled Engineering MRB-FCS and MRBW-FCS projects
+All software in the Iowa Scaled Engineering ESP-SEARCHLIGHT project
 is licensed under the GPL, version 3.
 
 ---------------------------------------------------------------------
